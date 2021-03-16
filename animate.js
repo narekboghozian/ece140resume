@@ -2,10 +2,10 @@
 
 
 var to = 0;
-var focus = -1500;
+var focus = 00;
 var delay = 2;
 var increment = 20;
-var pos = 1;
+var pos = 0;
 
 function changeFocus(x){
     var frame = document.getElementById('textframe');
